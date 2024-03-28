@@ -12,7 +12,7 @@ import profilePicture from "../assets/Profile.png"
 function Navbar() {
     return (
         <div >
-            <div className="flex justify-between px-6 mt-3">
+            <div className="flex justify-between mt-3">
                 <div className="flex items-center">
                     <GiHamburgerMenu size={30} />
                     <img className="w-28 ml-5" src={youtubelogo} alt="yt-logo" />
